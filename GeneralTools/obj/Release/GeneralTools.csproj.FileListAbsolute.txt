@@ -1,0 +1,11 @@
+F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\GeneralTools\bin\Release\GeneralTools.dll
+F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\GeneralTools\bin\Release\GeneralTools.pdb
+F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\GeneralTools\bin\Release\Google.Protobuf.dll
+F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\GeneralTools\bin\Release\MySql.Data.dll
+F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\GeneralTools\bin\Release\Google.Protobuf.xml
+F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\GeneralTools\bin\Release\MySql.Data.xml
+F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\GeneralTools\obj\Release\GeneralTools.dll
+F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\GeneralTools\obj\Release\GeneralTools.pdb
+F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\Tools\GeneralTools\obj\Release\GeneralTools.csprojResolveAssemblyReference.cache
+F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\Tools\GeneralTools\obj\Release\GeneralTools.dll
+F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\Tools\GeneralTools\obj\Release\GeneralTools.pdb
