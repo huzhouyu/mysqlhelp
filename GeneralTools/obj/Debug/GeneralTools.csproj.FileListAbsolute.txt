@@ -16,3 +16,12 @@ F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\Tools\General
 F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\Tools\GeneralTools\bin\Debug\GeneralTools.dll
 F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\Tools\GeneralTools\obj\Debug\GeneralTools.csprojResolveAssemblyReference.cache
 F:\胡周瑜code\BynearWeb.ProjectNew\BynearWeb.Project\Bynear.Web\Tools\GeneralTools\obj\Debug\GeneralTools.dll
+F:\胡周瑜code\GitGet\tool\GeneralTools\bin\Debug\GeneralTools.dll
+F:\胡周瑜code\GitGet\tool\GeneralTools\bin\Debug\GeneralTools.pdb
+F:\胡周瑜code\GitGet\tool\GeneralTools\bin\Debug\MySql.Data.dll
+F:\胡周瑜code\GitGet\tool\GeneralTools\bin\Debug\Newtonsoft.Json.dll
+F:\胡周瑜code\GitGet\tool\GeneralTools\bin\Debug\MathNet.Numerics.xml
+F:\胡周瑜code\GitGet\tool\GeneralTools\bin\Debug\MySql.Data.xml
+F:\胡周瑜code\GitGet\tool\GeneralTools\obj\Debug\GeneralTools.csprojResolveAssemblyReference.cache
+F:\胡周瑜code\GitGet\tool\GeneralTools\obj\Debug\GeneralTools.dll
+F:\胡周瑜code\GitGet\tool\GeneralTools\obj\Debug\GeneralTools.pdb
