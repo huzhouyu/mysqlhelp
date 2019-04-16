@@ -30,7 +30,6 @@ namespace GeneralTools
         {
             if (specLen == null)
             {
-
                 specLen = new Dictionary<string, int>();
             }
             var createTableSQL = "use " + dbName + ";" + "CREATE TABLE " + tableName + "(";
